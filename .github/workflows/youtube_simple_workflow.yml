@@ -1,4 +1,4 @@
-name: Youtube ColdCases Clips
+name: Youtube Simple
 on:
   schedule:
     # Runs daily at 17:00 UTC (1:00 PM EST / 10:00 AM PST)
