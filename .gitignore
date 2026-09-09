@@ -9,3 +9,4 @@ coldcases_client_secret.json
 venv/
 secrets.txt
 client_secret_warrior_ethos.json
+client_secret_coldcases.json
