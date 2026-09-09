@@ -181,7 +181,7 @@
     {
         "script_title": "The Mysterious Death of Edgar Allan Poe",
         "heading_text": "COLD CASES",
-        "posted": false,
+        "posted": true,
         "pin_comment": "Cooping election fraud, rabies, or murder? How did Poe really die? \ud83d\udc47",
         "total_segments": 4,
         "timeline": [
@@ -493,495 +493,490 @@
             }
         ]
     },
-
-
-
-
-
     {
-    "script_title": "The Mystery of the Green Children of Woolpit",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "Interdimensional travelers, underground world, or simple poisoning? What's your theory? 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In 12th-century England, harvesters discovered two children emerging from a ditch with glowing green skin.",
-        "header_text": "SUFFOLK 12TH CENTURY",
-        "background": {
-          "file": "green_skinned_children_misty_field.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "They spoke an unknown language, wore strange synthetic clothing, and refused to eat anything except raw green beans.",
-        "header_text": "UNKNOWN ORIGINS",
-        "background": {
-          "file": "raw_green_beans_wooden_table_shadows.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "Over time, the boy grew weak and passed away, while the surviving girl slowly adapted and learned English.",
-        "header_text": "THE SURVIVOR",
-        "background": {
-          "file": "medieval_cottage_candlelight_shadows.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "She revealed they came from St. Martin's Land—a sunless underground world where everything glows in perpetual twilight.",
-        "header_text": "UNDERGROUND WORLD",
-        "background": {
-          "file": "glowing_subterranean_cavern_twilight.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "How did two children step out of a subterranean dimension into medieval England, leaving us to wonder how...",
-        "header_text": "THE GREEN MYSTERY",
-        "background": {
-          "file": "medieval_forest_portal_mist.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  },
-  {
-    "script_title": "The Mystery of the Pollock Twins",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "Proof of reincarnation or coincidental family memories? Tell us below! 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In 1957, two young sisters died in a tragedy, leaving their grief-stricken parents completely devastated.",
-        "header_text": "ENGLAND 1957",
-        "background": {
-          "file": "vintage_foggy_english_street.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "One year later, their mother gave birth to twin girls who bore identical birthmarks to their deceased sisters.",
-        "header_text": "THE TWIN REBIRTH",
-        "background": {
-          "file": "baby_crib_shadowy_nursery.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "The twins began requesting old toys they'd never seen and describing detailed memories of a town they had never visited.",
-        "header_text": "IMPOSSIBLE MEMORIES",
-        "background": {
-          "file": "old_fashioned_dolls_attic.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "They even panickingly recognized the exact car model involved in the original fatal accident whenever one drove past.",
-        "header_text": "TERRIFYING RECOGNITION",
-        "background": {
-          "file": "vintage_car_headlights_darkness.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "At age five, all past memories abruptly erased, leaving scientists to wonder how...",
-        "header_text": "REINCARNATION REVEALED",
-        "background": {
-          "file": "shadowy_hallway_fading_light.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  },
-  {
-    "script_title": "The Disappearance of Frederick Valentich",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "UFO abduction, pilot disorientation, or covert military craft? 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In 1978, pilot Frederick Valentich was flying over Australia when a massive illuminated aircraft hovered directly above him.",
-        "header_text": "BASS STRAIT 1978",
-        "background": {
-          "file": "airplane_cockpit_night_sky_glowing_light.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "Radioing traffic control, he reported the metallic craft was orbiting him with four bright green lights.",
-        "header_text": "ORBITING LIGHTS",
-        "background": {
-          "file": "radar_screen_glowing_blip.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "He confirmed his engine was sputtering as the glowing craft hovered directly over his small plane.",
-        "header_text": "ENGINE FAILURE",
-        "background": {
-          "file": "plane_propeller_stalling_night.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "His final spoken words were 'It is not an aircraft,' followed by seventeen seconds of scraping metallic noise.",
-        "header_text": "FINAL TRANSMISSION",
-        "background": {
-          "file": "vintage_radio_static_glowing_dials.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "No plane wreckage or oil slick was ever found across hundreds of square miles, leaving us to wonder what...",
-        "header_text": "VANISHED IN FLIGHT",
-        "background": {
-          "file": "dark_ocean_horizon_night_sky.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  },
-  {
-    "script_title": "The Mystery of the Tarim Mummies",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "Lost Western migration or forgotten civilization? How did they reach ancient China? 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In the arid Taklamakan Desert, archaeologists unearthed hundreds of perfectly preserved four-thousand-year-old mummies.",
-        "header_text": "CHINA 1978",
-        "background": {
-          "file": "desert_dunes_excavation_site.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "Instead of Asian features, the mummies possessed red hair, tall frames, and European facial structures.",
-        "header_text": "EUROPEAN FEATURES",
-        "background": {
-          "file": "ancient_mummy_sandy_grave_close_up.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "They were buried wearing vibrant tartan wool garments identical to Celtic weaves from thousands of miles away.",
-        "header_text": "CELTIC TARTAN WOVEN",
-        "background": {
-          "file": "ancient_woven_textile_fabric_pattern.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "Alongside them lay wooden wheels and European-style boots completely foreign to ancient Bronze Age China.",
-        "header_text": "FORBIDDEN ARTIFACTS",
-        "background": {
-          "file": "ancient_wooden_wheel_sand.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "How did a Celtic population settle deep inside Bronze Age Asia without leaving a written history, making you wonder who...",
-        "header_text": "THE DESERT PHANTOMS",
-        "background": {
-          "file": "sweeping_desert_sandstorm_sunset.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  },
-  {
-    "script_title": "The Lead Masks Case of Vintém Hill",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "Extraterrestrial contact attempt, cult ritual, or foul play? 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In 1966, two electronic technicians were found dead on a Brazilian hillside wearing suits, raincoats, and lead eye masks.",
-        "header_text": "BRAZIL 1966",
-        "background": {
-          "file": "grassy_hillside_misty_rain.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "Beside their bodies sat a notebook containing cryptic instructions: 'Be at agreed location, await signal, swallow capsule.'",
-        "header_text": "CRYPTIC NOTEBOOK",
-        "background": {
-          "file": "handwritten_notebook_water_drops.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "Toxicology screens found no poison, no organ damage, and no signs of physical trauma on either body.",
-        "header_text": "NO TOXICOLOGY TRACE",
-        "background": {
-          "file": "vintage_lead_mask_prop_grass.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "Locals reported seeing a glowing orange UFO hovering directly over the hill on the exact night the men died.",
-        "header_text": "GLOWING ORB SIGHTING",
-        "background": {
-          "file": "glowing_orange_orb_night_sky.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "Who convinced two men to put on radiation shields and wait for a signal that cost them their lives, making you wonder why...",
-        "header_text": "THE LEAD MASKS",
-        "background": {
-          "file": "dark_stormy_hilltop_tree.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  },
-  {
-    "script_title": "The Mystery of the Devils Footprints",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "Mass hysteria, secret balloon test, or something unnatural? What made the tracks? 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In 1855, heavy snowfall across Devon revealed a continuous trail of cloven hoofprints stretching over one hundred miles.",
-        "header_text": "DEVON ENGLAND 1855",
-        "background": {
-          "file": "snowy_english_countryside_footprints.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "The prints traveled in a single straight line, passing through locked walls, over high roofs, and across open rivers.",
-        "header_text": "IMPOSSIBLE PATHWAY",
-        "background": {
-          "file": "snowy_rooftop_single_footprints.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "The impressions were branded eight inches apart into the snow as if burnt by a red-hot iron.",
-        "header_text": "SEALED AND BURNT",
-        "background": {
-          "file": "close_up_cloven_hoofprint_snow.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "Hounds refused to follow the trail, backing away while whimpering in terror.",
-        "header_text": "TERRIFIED ANIMALS",
-        "background": {
-          "file": "dark_shadowy_forest_snow.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "What walked across thirty towns in a single night without stopping for any obstacle, leaving us to wonder what...",
-        "header_text": "THE NIGHT WALK",
-        "background": {
-          "file": "foggy_victorian_street_snow_night.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  },
-  {
-    "script_title": "The Disappearance of Thomas Mantell",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "Time slip, secret experiment, or abduction? Drop your theories below! 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In 1947, military pilot Thomas Mantell was sent to pursue a massive spherical UFO hovering over Kentucky.",
-        "header_text": "KENTUCKY 1947",
-        "background": {
-          "file": "1940s_fighter_plane_cloudy_sky.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "Tower controllers watched as Mantell climbed to twenty thousand feet, describing an enormous metallic object above him.",
-        "header_text": "THE TOWER PURSUIT",
-        "background": {
-          "file": "metallic_glowing_orb_clouds.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "His final radio words reported: 'It looks metallic and it's tremendous in size... I'm going to climb higher.'",
-        "header_text": "LAST CONTACT",
-        "background": {
-          "file": "cockpit_altimeter_spinning_wildly.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "Minutes later, his aircraft spiraled down and crashed into a farm, completely destroyed.",
-        "header_text": "THE CRASH",
-        "background": {
-          "file": "burning_plane_wreckage_field.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "His aircraft disintegrated in mid-air with zero bullet marks or explosive residue, making you wonder why...",
-        "header_text": "SKY COLLISION",
-        "background": {
-          "file": "plane_wreckage_field_smoke.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  },
-  {
-    "script_title": "The Mystery of the Eltanin Antenna",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "Ancient tech, deep-sea alien relay, or rare sea sponge? What is it? 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In 1964, an oceanographic vessel photographing the Antarctic seafloor captured an image thirteen thousand feet deep.",
-        "header_text": "ANTARCTICA 1964",
-        "background": {
-          "file": "deep_ocean_floor_searchlight.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "Rising from the pitch-black ocean floor stood an intricate, perfectly symmetrical antenna-like structure.",
-        "header_text": "PERFECT SYMMETRY",
-        "background": {
-          "file": "metallic_antenna_structure_underwater.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "The object featured precise right-angle crossbars ending in distinct nodes, resembling modern radio telemetry towers.",
-        "header_text": "ANCIENT TELEMETRY",
-        "background": {
-          "file": "sonar_screen_underwater_object.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "No known marine growth had ever produced geometric right angles of such uniform thickness.",
-        "header_text": "IMPOSSIBLE GEOMETRY",
-        "background": {
-          "file": "underwater_camera_flash_abyss.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "What placed an advanced metallic grid miles below freezing Antarctic waters long before human deep-sea diving, leaving us to wonder how...",
-        "header_text": "ABYSSAL TRANSMITTER",
-        "background": {
-          "file": "dark_abyssal_ocean_particles.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  },
-  {
-    "script_title": "The Mystery of the Wow Signal",
-    "heading_text": "COLD CASES",
-    "posted": false,
-    "pin_comment": "Alien contact, classified military pulse, or comet flare? What made the signal? 👇",
-    "total_segments": 5,
-    "timeline": [
-      {
-        "segment_id": 1,
-        "text": "In 1977, the Big Ear radio telescope detected a seventy-two-second signal originating from deep space.",
-        "header_text": "OHIO 1977",
-        "background": {
-          "file": "radio_telescope_night_starry_sky.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 2,
-        "text": "The signal was thirty times stronger than deep space background noise, matching the exact frequency of hydrogen.",
-        "header_text": "1420 MHZ FREQUENCY",
-        "background": {
-          "file": "computer_printout_wow_code_red_circle.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 3,
-        "text": "Astronomer Jerry Ehman circled the data code '6EQUJ5' on the printout and wrote 'Wow!' in red ink.",
-        "header_text": "THE FAMOUS WOW",
-        "background": {
-          "file": "astronomer_hand_writing_wow.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 4,
-        "text": "The transmission possessed all the marks of an intentional, narrow-beam interstellar transmission.",
-        "header_text": "INTERSTELLAR PULSE",
-        "background": {
-          "file": "glowing_signal_wave_space.mp4",
-          "effect": "reverse_loop"
-        }
-      },
-      {
-        "segment_id": 5,
-        "text": "Despite searching that exact point in the Sagittarius constellation for decades, the signal never repeated, making you wonder who...",
-        "header_text": "DEEP SPACE PULSE",
-        "background": {
-          "file": "sagittarius_constellation_deep_space_nebula.mp4",
-          "effect": "reverse_loop"
-        }
-      }
-    ]
-  }
+        "script_title": "The Mystery of the Green Children of Woolpit",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Interdimensional travelers, underground world, or simple poisoning? What's your theory? \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 12th-century England, harvesters discovered two children emerging from a ditch with glowing green skin.",
+                "header_text": "SUFFOLK 12TH CENTURY",
+                "background": {
+                    "file": "green_skinned_children_misty_field.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "They spoke an unknown language, wore strange synthetic clothing, and refused to eat anything except raw green beans.",
+                "header_text": "UNKNOWN ORIGINS",
+                "background": {
+                    "file": "raw_green_beans_wooden_table_shadows.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Over time, the boy grew weak and passed away, while the surviving girl slowly adapted and learned English.",
+                "header_text": "THE SURVIVOR",
+                "background": {
+                    "file": "medieval_cottage_candlelight_shadows.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "She revealed they came from St. Martin's Land\u2014a sunless underground world where everything glows in perpetual twilight.",
+                "header_text": "UNDERGROUND WORLD",
+                "background": {
+                    "file": "glowing_subterranean_cavern_twilight.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "How did two children step out of a subterranean dimension into medieval England, leaving us to wonder how...",
+                "header_text": "THE GREEN MYSTERY",
+                "background": {
+                    "file": "medieval_forest_portal_mist.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Pollock Twins",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Proof of reincarnation or coincidental family memories? Tell us below! \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1957, two young sisters died in a tragedy, leaving their grief-stricken parents completely devastated.",
+                "header_text": "ENGLAND 1957",
+                "background": {
+                    "file": "vintage_foggy_english_street.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "One year later, their mother gave birth to twin girls who bore identical birthmarks to their deceased sisters.",
+                "header_text": "THE TWIN REBIRTH",
+                "background": {
+                    "file": "baby_crib_shadowy_nursery.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "The twins began requesting old toys they'd never seen and describing detailed memories of a town they had never visited.",
+                "header_text": "IMPOSSIBLE MEMORIES",
+                "background": {
+                    "file": "old_fashioned_dolls_attic.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "They even panickingly recognized the exact car model involved in the original fatal accident whenever one drove past.",
+                "header_text": "TERRIFYING RECOGNITION",
+                "background": {
+                    "file": "vintage_car_headlights_darkness.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "At age five, all past memories abruptly erased, leaving scientists to wonder how...",
+                "header_text": "REINCARNATION REVEALED",
+                "background": {
+                    "file": "shadowy_hallway_fading_light.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Disappearance of Frederick Valentich",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "UFO abduction, pilot disorientation, or covert military craft? \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1978, pilot Frederick Valentich was flying over Australia when a massive illuminated aircraft hovered directly above him.",
+                "header_text": "BASS STRAIT 1978",
+                "background": {
+                    "file": "airplane_cockpit_night_sky_glowing_light.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "Radioing traffic control, he reported the metallic craft was orbiting him with four bright green lights.",
+                "header_text": "ORBITING LIGHTS",
+                "background": {
+                    "file": "radar_screen_glowing_blip.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "He confirmed his engine was sputtering as the glowing craft hovered directly over his small plane.",
+                "header_text": "ENGINE FAILURE",
+                "background": {
+                    "file": "plane_propeller_stalling_night.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "His final spoken words were 'It is not an aircraft,' followed by seventeen seconds of scraping metallic noise.",
+                "header_text": "FINAL TRANSMISSION",
+                "background": {
+                    "file": "vintage_radio_static_glowing_dials.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "No plane wreckage or oil slick was ever found across hundreds of square miles, leaving us to wonder what...",
+                "header_text": "VANISHED IN FLIGHT",
+                "background": {
+                    "file": "dark_ocean_horizon_night_sky.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Tarim Mummies",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Lost Western migration or forgotten civilization? How did they reach ancient China? \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In the arid Taklamakan Desert, archaeologists unearthed hundreds of perfectly preserved four-thousand-year-old mummies.",
+                "header_text": "CHINA 1978",
+                "background": {
+                    "file": "desert_dunes_excavation_site.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "Instead of Asian features, the mummies possessed red hair, tall frames, and European facial structures.",
+                "header_text": "EUROPEAN FEATURES",
+                "background": {
+                    "file": "ancient_mummy_sandy_grave_close_up.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "They were buried wearing vibrant tartan wool garments identical to Celtic weaves from thousands of miles away.",
+                "header_text": "CELTIC TARTAN WOVEN",
+                "background": {
+                    "file": "ancient_woven_textile_fabric_pattern.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Alongside them lay wooden wheels and European-style boots completely foreign to ancient Bronze Age China.",
+                "header_text": "FORBIDDEN ARTIFACTS",
+                "background": {
+                    "file": "ancient_wooden_wheel_sand.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "How did a Celtic population settle deep inside Bronze Age Asia without leaving a written history, making you wonder who...",
+                "header_text": "THE DESERT PHANTOMS",
+                "background": {
+                    "file": "sweeping_desert_sandstorm_sunset.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Lead Masks Case of Vint\u00e9m Hill",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Extraterrestrial contact attempt, cult ritual, or foul play? \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1966, two electronic technicians were found dead on a Brazilian hillside wearing suits, raincoats, and lead eye masks.",
+                "header_text": "BRAZIL 1966",
+                "background": {
+                    "file": "grassy_hillside_misty_rain.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "Beside their bodies sat a notebook containing cryptic instructions: 'Be at agreed location, await signal, swallow capsule.'",
+                "header_text": "CRYPTIC NOTEBOOK",
+                "background": {
+                    "file": "handwritten_notebook_water_drops.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Toxicology screens found no poison, no organ damage, and no signs of physical trauma on either body.",
+                "header_text": "NO TOXICOLOGY TRACE",
+                "background": {
+                    "file": "vintage_lead_mask_prop_grass.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Locals reported seeing a glowing orange UFO hovering directly over the hill on the exact night the men died.",
+                "header_text": "GLOWING ORB SIGHTING",
+                "background": {
+                    "file": "glowing_orange_orb_night_sky.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "Who convinced two men to put on radiation shields and wait for a signal that cost them their lives, making you wonder why...",
+                "header_text": "THE LEAD MASKS",
+                "background": {
+                    "file": "dark_stormy_hilltop_tree.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Devils Footprints",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Mass hysteria, secret balloon test, or something unnatural? What made the tracks? \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1855, heavy snowfall across Devon revealed a continuous trail of cloven hoofprints stretching over one hundred miles.",
+                "header_text": "DEVON ENGLAND 1855",
+                "background": {
+                    "file": "snowy_english_countryside_footprints.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "The prints traveled in a single straight line, passing through locked walls, over high roofs, and across open rivers.",
+                "header_text": "IMPOSSIBLE PATHWAY",
+                "background": {
+                    "file": "snowy_rooftop_single_footprints.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "The impressions were branded eight inches apart into the snow as if burnt by a red-hot iron.",
+                "header_text": "SEALED AND BURNT",
+                "background": {
+                    "file": "close_up_cloven_hoofprint_snow.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Hounds refused to follow the trail, backing away while whimpering in terror.",
+                "header_text": "TERRIFIED ANIMALS",
+                "background": {
+                    "file": "dark_shadowy_forest_snow.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "What walked across thirty towns in a single night without stopping for any obstacle, leaving us to wonder what...",
+                "header_text": "THE NIGHT WALK",
+                "background": {
+                    "file": "foggy_victorian_street_snow_night.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Disappearance of Thomas Mantell",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Time slip, secret experiment, or abduction? Drop your theories below! \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1947, military pilot Thomas Mantell was sent to pursue a massive spherical UFO hovering over Kentucky.",
+                "header_text": "KENTUCKY 1947",
+                "background": {
+                    "file": "1940s_fighter_plane_cloudy_sky.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "Tower controllers watched as Mantell climbed to twenty thousand feet, describing an enormous metallic object above him.",
+                "header_text": "THE TOWER PURSUIT",
+                "background": {
+                    "file": "metallic_glowing_orb_clouds.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "His final radio words reported: 'It looks metallic and it's tremendous in size... I'm going to climb higher.'",
+                "header_text": "LAST CONTACT",
+                "background": {
+                    "file": "cockpit_altimeter_spinning_wildly.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Minutes later, his aircraft spiraled down and crashed into a farm, completely destroyed.",
+                "header_text": "THE CRASH",
+                "background": {
+                    "file": "burning_plane_wreckage_field.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "His aircraft disintegrated in mid-air with zero bullet marks or explosive residue, making you wonder why...",
+                "header_text": "SKY COLLISION",
+                "background": {
+                    "file": "plane_wreckage_field_smoke.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Eltanin Antenna",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Ancient tech, deep-sea alien relay, or rare sea sponge? What is it? \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1964, an oceanographic vessel photographing the Antarctic seafloor captured an image thirteen thousand feet deep.",
+                "header_text": "ANTARCTICA 1964",
+                "background": {
+                    "file": "deep_ocean_floor_searchlight.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "Rising from the pitch-black ocean floor stood an intricate, perfectly symmetrical antenna-like structure.",
+                "header_text": "PERFECT SYMMETRY",
+                "background": {
+                    "file": "metallic_antenna_structure_underwater.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "The object featured precise right-angle crossbars ending in distinct nodes, resembling modern radio telemetry towers.",
+                "header_text": "ANCIENT TELEMETRY",
+                "background": {
+                    "file": "sonar_screen_underwater_object.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "No known marine growth had ever produced geometric right angles of such uniform thickness.",
+                "header_text": "IMPOSSIBLE GEOMETRY",
+                "background": {
+                    "file": "underwater_camera_flash_abyss.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "What placed an advanced metallic grid miles below freezing Antarctic waters long before human deep-sea diving, leaving us to wonder how...",
+                "header_text": "ABYSSAL TRANSMITTER",
+                "background": {
+                    "file": "dark_abyssal_ocean_particles.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Wow Signal",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Alien contact, classified military pulse, or comet flare? What made the signal? \ud83d\udc47",
+        "total_segments": 5,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1977, the Big Ear radio telescope detected a seventy-two-second signal originating from deep space.",
+                "header_text": "OHIO 1977",
+                "background": {
+                    "file": "radio_telescope_night_starry_sky.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "The signal was thirty times stronger than deep space background noise, matching the exact frequency of hydrogen.",
+                "header_text": "1420 MHZ FREQUENCY",
+                "background": {
+                    "file": "computer_printout_wow_code_red_circle.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Astronomer Jerry Ehman circled the data code '6EQUJ5' on the printout and wrote 'Wow!' in red ink.",
+                "header_text": "THE FAMOUS WOW",
+                "background": {
+                    "file": "astronomer_hand_writing_wow.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "The transmission possessed all the marks of an intentional, narrow-beam interstellar transmission.",
+                "header_text": "INTERSTELLAR PULSE",
+                "background": {
+                    "file": "glowing_signal_wave_space.mp4",
+                    "effect": "reverse_loop"
+                }
+            },
+            {
+                "segment_id": 5,
+                "text": "Despite searching that exact point in the Sagittarius constellation for decades, the signal never repeated, making you wonder who...",
+                "header_text": "DEEP SPACE PULSE",
+                "background": {
+                    "file": "sagittarius_constellation_deep_space_nebula.mp4",
+                    "effect": "reverse_loop"
+                }
+            }
+        ]
+    }
 ]
