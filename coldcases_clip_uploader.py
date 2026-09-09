@@ -17,7 +17,7 @@ if BASE_DIR in sys.path:
 sys.path.insert(0, BASE_DIR)
 
 # Import the processing function from your Cold Cases pipeline module
-from coldcases.main import process_script_item
+from generator_simple import process_script_item
 
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",

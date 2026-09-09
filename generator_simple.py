@@ -20,8 +20,8 @@ from moviepy.video.compositing.CompositeVideoClip import CompositeVideoClip
 import moviepy.video.fx as vfx
 import moviepy.audio.fx as afx
 
-from caption_generator import CONFIG_STYLE_PUNCHY, generate_caption_overlay
-from animations import build_transitioned_timeline
+from modules.caption_generator import CONFIG_STYLE_PUNCHY, generate_caption_overlay
+from modules.animations import build_transitioned_timeline
 
 
 def resolve_project_path(*path_parts: str) -> str:
