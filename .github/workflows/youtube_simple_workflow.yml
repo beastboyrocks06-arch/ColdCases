@@ -51,7 +51,7 @@ jobs:
           CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
           CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
           CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
-        run: python coldcases_clip_uploader.py
+        run: python coldcases_simple_uploader.py
 
       - name: Commit updated JSON status
         run: |
@@ -64,7 +64,7 @@ jobs:
 
           git stash pop || echo "No changes to pop"
 
-          git add coldcases/coldcases.json
+          git add coldcases.json
 
           git diff --quiet && git diff --staged --quiet || \
             git commit -m "Auto-update posted status in coldcases.json [skip ci]"

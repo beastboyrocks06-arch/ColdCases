@@ -33,10 +33,10 @@ def resolve_project_path(*path_parts: str) -> str:
     return path_parent
 
 
-DEFAULT_SFX_DIR = resolve_project_path("coldcases", "sfx")
-DEFAULT_STICKERS_DIR = resolve_project_path("coldcases", "stickers")
-DEFAULT_ASSETS_DIR = resolve_project_path("coldcases", "background_assets")
-DEFAULT_BGM_DIR = resolve_project_path("coldcases", "background_music")
+DEFAULT_SFX_DIR = resolve_project_path("sfx")
+DEFAULT_STICKERS_DIR = resolve_project_path("stickers")
+DEFAULT_ASSETS_DIR = resolve_project_path("background_assets")
+DEFAULT_BGM_DIR = resolve_project_path("background_musics")
 
 
 def sanitize_filename(name: str) -> str:
