@@ -1,0 +1,987 @@
+[
+    {
+        "script_title": "The Screaming Mummy of Egypt",
+        "heading_text": "COLD CASES",
+        "posted": true,
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "Archaeologists opening an untouched Egyptian coffin found a mummy frozen in a blood-curdling scream.",
+                "header_text": "UNSOLVED MYSTERY",
+                "background": {
+                    "file": "screaming_mummy_crate_discovery.jpg",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "In 1935, researchers in Luxor unearthed a sealed wooden sarcophagus containing an ancient woman with her jaw locked wide open in utter agony.",
+                "header_text": "LUXOR EGYPT 1935",
+                "background": {
+                    "file": "screaming_mummy_researchers_tomb.jpg",
+                    "effect": "pan_left"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Modern CT scans revealed no sign of violent struggle, yet her body was embalmed with her mouth pinned open\u2014a direct violation of ancient burial rites.",
+                "header_text": "BURIAL VIOLATION",
+                "background": {
+                    "file": "screaming_mummy_macro_mouth.jpg",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Why would embalmers intentionally preserve someone in eternal terror, making you wonder why...",
+                "header_text": "ETERNAL TERROR",
+                "background": {
+                    "file": "screaming_mummy_closed_sarcophagus.jpg",
+                    "effect": "pan_right"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Lighthouse Keepers",
+        "heading_text": "COLD CASES",
+        "posted": true,
+        "pin_comment": "What do you think really happened to the 3 keepers? Rogue wave or something unexplainable? \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1900, three lighthouse keepers vanished from a remote island without leaving a single trace.",
+                "header_text": "FLANNAN ISLES 1900",
+                "background": {
+                    "file": "lighthouse_flannan_isles_storm.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "When a supply ship arrived at the Flannan Isles, the lighthouse was dead dark. Inside, rescuers found an untouched meal on the table and a clock stopped on the wall.",
+                "header_text": "THE EMPTY LIGHTHOUSE",
+                "background": {
+                    "file": "lighthouse_interior_untouched_meal.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "The heavy iron gates were locked, two oilskins were missing, and the logbook ended with an entry describing a storm that never happened according to nearby ships.",
+                "header_text": "THE PHANTOM STORM",
+                "background": {
+                    "file": "lighthouse_logbook_locked_gate.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "How could three experienced men vanish from a locked island in clear weather, leaving us to wonder how...",
+                "header_text": "VANISHED WITHOUT TRACE",
+                "background": {
+                    "file": "lighthouse_rocky_shore_loop.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Oak Island Money Pit",
+        "heading_text": "COLD CASES",
+        "posted": true,
+        "pin_comment": "Ancient treasure, pirate gold, or elaborate natural booby trap? What's down there? \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1795, a teenager discovered a circular depression in Nova Scotia and began digging up an impossible shaft.",
+                "header_text": "OAK ISLAND 1795",
+                "background": {
+                    "file": "misty_oak_island_forest.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "Every ten feet, excavators uncovered wooden platforms, oak beams, and stone layers sealed with coconut fiber.",
+                "header_text": "BOOBY TRAPPED SHAFT",
+                "background": {
+                    "file": "deep_dirt_pit_wooden_beams.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "At ninety feet, diggers hit a stone engraved with cipher code, triggering hidden sea tunnels that flooded the entire pit.",
+                "header_text": "FLOODED BY THE SEA",
+                "background": {
+                    "file": "underground_water_flooding_shaft.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Who spent years engineering a self-drowning vault to protect something buried two centuries ago, making you wonder why...",
+                "header_text": "THE IMPOSSIBLE VAULT",
+                "background": {
+                    "file": "dark_coastal_island_rain.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Phoenix Lights",
+        "heading_text": "COLD CASES",
+        "posted": true,
+        "pin_comment": "Military flares or a massive alien craft? What saw thousands of people in 1997? \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1997, thousands of people across Arizona witnessed a giant V-shaped craft gliding silently through the night sky.",
+                "header_text": "ARIZONA 1997",
+                "background": {
+                    "file": "night_sky_phoenix_city_lights.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "The massive object stretched over a mile wide, blocking out stars overhead without producing a single sound.",
+                "header_text": "MILE WIDE SILENCE",
+                "background": {
+                    "file": "v_shaped_lights_night_sky.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Air traffic radar detected nothing, yet military pilots sent to intercept reported seeing five glowing orb thrusters.",
+                "header_text": "ZERO RADAR SIGNATURE",
+                "background": {
+                    "file": "radar_screen_empty_cockpit_view.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "How could a city-sized structure cross hundreds of miles completely undetected by radar, leaving us to wonder how...",
+                "header_text": "THE UNSEEN VISITOR",
+                "background": {
+                    "file": "desert_highway_night_sky.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mysterious Death of Edgar Allan Poe",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Cooping election fraud, rabies, or murder? How did Poe really die? \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1849, Edgar Allan Poe was found delirious outside a Baltimore tavern wearing someone else's cheap clothes.",
+                "header_text": "BALTIMORE 1849",
+                "background": {
+                    "file": "rainy_baltimore_street_night.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "He repeatedly called out for a man named Reynolds, but died in hospital four days later without regaining lucidity.",
+                "header_text": "REYNOLDS CALL",
+                "background": {
+                    "file": "victorian_hospital_bed_shadows.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "All medical records, death certificates, and autopsy reports vanished mysteriously from the hospital archives within weeks.",
+                "header_text": "VANISHED RECORDS",
+                "background": {
+                    "file": "empty_file_cabinet_dusty_office.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Who dressed the famous author in strange clothes and erased all traces of his final hours, making you wonder why...",
+                "header_text": "THE FINAL POE MYSTERY",
+                "background": {
+                    "file": "foggy_graveyard_victorian_tomb.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Belmez Faces",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Paranormal phenomenon or clever paint trick? Tell us what you think! \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1971, a Spanish homemaker noticed a dark human face spontaneously forming on her concrete kitchen floor.",
+                "header_text": "B\u00c9LMEZ SPAIN 1971",
+                "background": {
+                    "file": "old_spanish_kitchen_floor.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "Her family scraped away the concrete and laid fresh cement, but the same anguished face reappeared within days.",
+                "header_text": "REAPPEARING FACE",
+                "background": {
+                    "file": "ghostly_face_concrete_floor.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Excavation under the floor revealed a medieval graveyard buried nine feet below, packed with headless human skeletons.",
+                "header_text": "BURIED GRAVEYARD",
+                "background": {
+                    "file": "excavated_graveyard_skeletons_underground.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Scientists found no paints or chemicals in the concrete samples, leaving us to wonder how...",
+                "header_text": "VOICES FROM CEMENT",
+                "background": {
+                    "file": "dark_hallway_creepy_shadows.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the San Pedro Mummy",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Lost pygmy race or medical anomaly? Share your theory below! \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1932, two prospectors blasting rock in Wyoming discovered a sealed cave containing a tiny fourteen-inch mummy.",
+                "header_text": "WYOMING 1932",
+                "background": {
+                    "file": "wyoming_cave_mountains_rock.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "X-rays showed a complete adult human skeleton inside with a full set of teeth and flattened skull features.",
+                "header_text": "ADULT SKELETON",
+                "background": {
+                    "file": "xray_tiny_humanoid_skeleton.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Anthropologists confirmed the specimen was sixty years old at death despite weighing less than sixteen ounces.",
+                "header_text": "FULL GROWN AT 14 INCHES",
+                "background": {
+                    "file": "cross_legged_tiny_mummy.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Before modern genetic testing could be conducted, the mummy vanished from a private collection, making you wonder where...",
+                "header_text": "VANISHED FROM VAULT",
+                "background": {
+                    "file": "glass_box_empty.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Mad Gasser",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Industrial toxic leak, phantom phantom prowler, or mass hysteria? \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1944, residents across Mattoon began waking up to a sweet odor followed by immediate paralysis.",
+                "header_text": "MATTOON ILLINOIS 1944",
+                "background": {
+                    "file": "1940s_suburban_house_night.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "Victims reported seeing a tall figure in dark clothing pumping gas through open bedroom windows before fleeing.",
+                "header_text": "THE TALL PROWLER",
+                "background": {
+                    "file": "shadowy_figure_outside_window.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Over two dozen families suffered severe facial swelling, burning throats, and temporary leg paralysis over two weeks.",
+                "header_text": "PARALYZED IN BED",
+                "background": {
+                    "file": "vintage_bedroom_gasping_shadows.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "Police found footprints and chemical canisters at multiple scenes yet never identified the attacker, making you wonder who...",
+                "header_text": "THE PHANTOM ATTACKER",
+                "background": {
+                    "file": "empty_suburban_street_mist.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Spontaneous Combustion",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "The wick effect or internal chemical reaction? What incinerated Mary Reeser? \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1951, landlady Telegram found Mary Reeser reduced to ashes inside her apartment without destroying the room.",
+                "header_text": "ST PETERSBURG 1951",
+                "background": {
+                    "file": "1950s_apartment_doorway_smoke.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "The fire burned at three thousand degrees, incinerating bone, yet nearby plastic household items didn't even melt.",
+                "header_text": "3000 DEGREE HEAT",
+                "background": {
+                    "file": "charred_armchair_ashes_floor.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Only her left foot remained completely intact, still wearing an undamaged satin slipper amidst the piles of ash.",
+                "header_text": "THE INTACT SLIPPER",
+                "background": {
+                    "file": "ashes_satin_slipper_close_up.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "FBI forensic experts conceded they couldn't explain how a human body burned like a furnace, making you wonder how...",
+                "header_text": "THE CONSUMING FIRE",
+                "background": {
+                    "file": "smoke_rising_dark_room.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Mystery of the Barisal Guns",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Atmospheric booms, underwater gas vents, or military trials? What causes the sound? \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "For centuries, residents near the Bay of Bengal have heard thunderous explosive booms coming from open water.",
+                "header_text": "BAY OF BENGAL",
+                "background": {
+                    "file": "bay_of_bengal_coastline_mist.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "The deep sonic detonations mimic artillery fire, shaking buildings miles inland during completely clear weather.",
+                "header_text": "SONIC EXPLOSIONS",
+                "background": {
+                    "file": "calm_ocean_horizon_sunset.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "Seismographs register no tectonic activity during the noise, ruling out earthquakes, quarry blasts, or tsunamis.",
+                "header_text": "NO TECTONIC ACTIVITY",
+                "background": {
+                    "file": "seismograph_needle_flatline.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "What generates massive cannon-like blasts across miles of calm sea without leaving smoke, leaving us to wonder what...",
+                "header_text": "THE SKY CANNONS",
+                "background": {
+                    "file": "dark_ocean_cloudy_sky.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+    {
+        "script_title": "The Disappearance of the Joyita",
+        "heading_text": "COLD CASES",
+        "posted": false,
+        "pin_comment": "Piracy, rogue wave, or crew mutiny? What happened onboard the MV Joyita? \ud83d\udc47",
+        "total_segments": 4,
+        "timeline": [
+            {
+                "segment_id": 1,
+                "text": "In 1955, the merchant vessel Joyita was found drifting in the South Pacific five weeks after going missing.",
+                "header_text": "SOUTH PACIFIC 1955",
+                "background": {
+                    "file": "derelict_ship_drifting_ocean.mp4",
+                    "effect": "zoom_in"
+                }
+            },
+            {
+                "segment_id": 2,
+                "text": "All twenty-five passengers and crew had disappeared, leaving behind bloody bandages and four tons of cargo.",
+                "header_text": "25 PEOPLE MISSING",
+                "background": {
+                    "file": "ship_deck_bloody_bandages.mp4",
+                    "effect": "pan_right"
+                }
+            },
+            {
+                "segment_id": 3,
+                "text": "The ship's radio was tuned to the international distress frequency, but its wiring was mysteriously severed.",
+                "header_text": "CUT RADIO WIRES",
+                "background": {
+                    "file": "vintage_radio_cut_wires.mp4",
+                    "effect": "zoom_out"
+                }
+            },
+            {
+                "segment_id": 4,
+                "text": "The vessel was virtually unsinkable due to cork lining, so why would everyone abandon a safe ship, making you wonder why...",
+                "header_text": "ABANDONED UNSINKABLE",
+                "background": {
+                    "file": "vast_empty_pacific_ocean.mp4",
+                    "effect": "pan_left"
+                }
+            }
+        ]
+    },
+
+
+
+
+
+    {
+    "script_title": "The Mystery of the Green Children of Woolpit",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "Interdimensional travelers, underground world, or simple poisoning? What's your theory? 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In 12th-century England, harvesters discovered two children emerging from a ditch with glowing green skin.",
+        "header_text": "SUFFOLK 12TH CENTURY",
+        "background": {
+          "file": "green_skinned_children_misty_field.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "They spoke an unknown language, wore strange synthetic clothing, and refused to eat anything except raw green beans.",
+        "header_text": "UNKNOWN ORIGINS",
+        "background": {
+          "file": "raw_green_beans_wooden_table_shadows.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "Over time, the boy grew weak and passed away, while the surviving girl slowly adapted and learned English.",
+        "header_text": "THE SURVIVOR",
+        "background": {
+          "file": "medieval_cottage_candlelight_shadows.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "She revealed they came from St. Martin's Land—a sunless underground world where everything glows in perpetual twilight.",
+        "header_text": "UNDERGROUND WORLD",
+        "background": {
+          "file": "glowing_subterranean_cavern_twilight.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "How did two children step out of a subterranean dimension into medieval England, leaving us to wonder how...",
+        "header_text": "THE GREEN MYSTERY",
+        "background": {
+          "file": "medieval_forest_portal_mist.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  },
+  {
+    "script_title": "The Mystery of the Pollock Twins",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "Proof of reincarnation or coincidental family memories? Tell us below! 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In 1957, two young sisters died in a tragedy, leaving their grief-stricken parents completely devastated.",
+        "header_text": "ENGLAND 1957",
+        "background": {
+          "file": "vintage_foggy_english_street.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "One year later, their mother gave birth to twin girls who bore identical birthmarks to their deceased sisters.",
+        "header_text": "THE TWIN REBIRTH",
+        "background": {
+          "file": "baby_crib_shadowy_nursery.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "The twins began requesting old toys they'd never seen and describing detailed memories of a town they had never visited.",
+        "header_text": "IMPOSSIBLE MEMORIES",
+        "background": {
+          "file": "old_fashioned_dolls_attic.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "They even panickingly recognized the exact car model involved in the original fatal accident whenever one drove past.",
+        "header_text": "TERRIFYING RECOGNITION",
+        "background": {
+          "file": "vintage_car_headlights_darkness.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "At age five, all past memories abruptly erased, leaving scientists to wonder how...",
+        "header_text": "REINCARNATION REVEALED",
+        "background": {
+          "file": "shadowy_hallway_fading_light.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  },
+  {
+    "script_title": "The Disappearance of Frederick Valentich",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "UFO abduction, pilot disorientation, or covert military craft? 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In 1978, pilot Frederick Valentich was flying over Australia when a massive illuminated aircraft hovered directly above him.",
+        "header_text": "BASS STRAIT 1978",
+        "background": {
+          "file": "airplane_cockpit_night_sky_glowing_light.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "Radioing traffic control, he reported the metallic craft was orbiting him with four bright green lights.",
+        "header_text": "ORBITING LIGHTS",
+        "background": {
+          "file": "radar_screen_glowing_blip.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "He confirmed his engine was sputtering as the glowing craft hovered directly over his small plane.",
+        "header_text": "ENGINE FAILURE",
+        "background": {
+          "file": "plane_propeller_stalling_night.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "His final spoken words were 'It is not an aircraft,' followed by seventeen seconds of scraping metallic noise.",
+        "header_text": "FINAL TRANSMISSION",
+        "background": {
+          "file": "vintage_radio_static_glowing_dials.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "No plane wreckage or oil slick was ever found across hundreds of square miles, leaving us to wonder what...",
+        "header_text": "VANISHED IN FLIGHT",
+        "background": {
+          "file": "dark_ocean_horizon_night_sky.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  },
+  {
+    "script_title": "The Mystery of the Tarim Mummies",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "Lost Western migration or forgotten civilization? How did they reach ancient China? 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In the arid Taklamakan Desert, archaeologists unearthed hundreds of perfectly preserved four-thousand-year-old mummies.",
+        "header_text": "CHINA 1978",
+        "background": {
+          "file": "desert_dunes_excavation_site.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "Instead of Asian features, the mummies possessed red hair, tall frames, and European facial structures.",
+        "header_text": "EUROPEAN FEATURES",
+        "background": {
+          "file": "ancient_mummy_sandy_grave_close_up.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "They were buried wearing vibrant tartan wool garments identical to Celtic weaves from thousands of miles away.",
+        "header_text": "CELTIC TARTAN WOVEN",
+        "background": {
+          "file": "ancient_woven_textile_fabric_pattern.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "Alongside them lay wooden wheels and European-style boots completely foreign to ancient Bronze Age China.",
+        "header_text": "FORBIDDEN ARTIFACTS",
+        "background": {
+          "file": "ancient_wooden_wheel_sand.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "How did a Celtic population settle deep inside Bronze Age Asia without leaving a written history, making you wonder who...",
+        "header_text": "THE DESERT PHANTOMS",
+        "background": {
+          "file": "sweeping_desert_sandstorm_sunset.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  },
+  {
+    "script_title": "The Lead Masks Case of Vintém Hill",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "Extraterrestrial contact attempt, cult ritual, or foul play? 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In 1966, two electronic technicians were found dead on a Brazilian hillside wearing suits, raincoats, and lead eye masks.",
+        "header_text": "BRAZIL 1966",
+        "background": {
+          "file": "grassy_hillside_misty_rain.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "Beside their bodies sat a notebook containing cryptic instructions: 'Be at agreed location, await signal, swallow capsule.'",
+        "header_text": "CRYPTIC NOTEBOOK",
+        "background": {
+          "file": "handwritten_notebook_water_drops.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "Toxicology screens found no poison, no organ damage, and no signs of physical trauma on either body.",
+        "header_text": "NO TOXICOLOGY TRACE",
+        "background": {
+          "file": "vintage_lead_mask_prop_grass.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "Locals reported seeing a glowing orange UFO hovering directly over the hill on the exact night the men died.",
+        "header_text": "GLOWING ORB SIGHTING",
+        "background": {
+          "file": "glowing_orange_orb_night_sky.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "Who convinced two men to put on radiation shields and wait for a signal that cost them their lives, making you wonder why...",
+        "header_text": "THE LEAD MASKS",
+        "background": {
+          "file": "dark_stormy_hilltop_tree.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  },
+  {
+    "script_title": "The Mystery of the Devils Footprints",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "Mass hysteria, secret balloon test, or something unnatural? What made the tracks? 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In 1855, heavy snowfall across Devon revealed a continuous trail of cloven hoofprints stretching over one hundred miles.",
+        "header_text": "DEVON ENGLAND 1855",
+        "background": {
+          "file": "snowy_english_countryside_footprints.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "The prints traveled in a single straight line, passing through locked walls, over high roofs, and across open rivers.",
+        "header_text": "IMPOSSIBLE PATHWAY",
+        "background": {
+          "file": "snowy_rooftop_single_footprints.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "The impressions were branded eight inches apart into the snow as if burnt by a red-hot iron.",
+        "header_text": "SEALED AND BURNT",
+        "background": {
+          "file": "close_up_cloven_hoofprint_snow.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "Hounds refused to follow the trail, backing away while whimpering in terror.",
+        "header_text": "TERRIFIED ANIMALS",
+        "background": {
+          "file": "dark_shadowy_forest_snow.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "What walked across thirty towns in a single night without stopping for any obstacle, leaving us to wonder what...",
+        "header_text": "THE NIGHT WALK",
+        "background": {
+          "file": "foggy_victorian_street_snow_night.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  },
+  {
+    "script_title": "The Disappearance of Thomas Mantell",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "Time slip, secret experiment, or abduction? Drop your theories below! 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In 1947, military pilot Thomas Mantell was sent to pursue a massive spherical UFO hovering over Kentucky.",
+        "header_text": "KENTUCKY 1947",
+        "background": {
+          "file": "1940s_fighter_plane_cloudy_sky.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "Tower controllers watched as Mantell climbed to twenty thousand feet, describing an enormous metallic object above him.",
+        "header_text": "THE TOWER PURSUIT",
+        "background": {
+          "file": "metallic_glowing_orb_clouds.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "His final radio words reported: 'It looks metallic and it's tremendous in size... I'm going to climb higher.'",
+        "header_text": "LAST CONTACT",
+        "background": {
+          "file": "cockpit_altimeter_spinning_wildly.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "Minutes later, his aircraft spiraled down and crashed into a farm, completely destroyed.",
+        "header_text": "THE CRASH",
+        "background": {
+          "file": "burning_plane_wreckage_field.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "His aircraft disintegrated in mid-air with zero bullet marks or explosive residue, making you wonder why...",
+        "header_text": "SKY COLLISION",
+        "background": {
+          "file": "plane_wreckage_field_smoke.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  },
+  {
+    "script_title": "The Mystery of the Eltanin Antenna",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "Ancient tech, deep-sea alien relay, or rare sea sponge? What is it? 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In 1964, an oceanographic vessel photographing the Antarctic seafloor captured an image thirteen thousand feet deep.",
+        "header_text": "ANTARCTICA 1964",
+        "background": {
+          "file": "deep_ocean_floor_searchlight.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "Rising from the pitch-black ocean floor stood an intricate, perfectly symmetrical antenna-like structure.",
+        "header_text": "PERFECT SYMMETRY",
+        "background": {
+          "file": "metallic_antenna_structure_underwater.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "The object featured precise right-angle crossbars ending in distinct nodes, resembling modern radio telemetry towers.",
+        "header_text": "ANCIENT TELEMETRY",
+        "background": {
+          "file": "sonar_screen_underwater_object.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "No known marine growth had ever produced geometric right angles of such uniform thickness.",
+        "header_text": "IMPOSSIBLE GEOMETRY",
+        "background": {
+          "file": "underwater_camera_flash_abyss.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "What placed an advanced metallic grid miles below freezing Antarctic waters long before human deep-sea diving, leaving us to wonder how...",
+        "header_text": "ABYSSAL TRANSMITTER",
+        "background": {
+          "file": "dark_abyssal_ocean_particles.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  },
+  {
+    "script_title": "The Mystery of the Wow Signal",
+    "heading_text": "COLD CASES",
+    "posted": false,
+    "pin_comment": "Alien contact, classified military pulse, or comet flare? What made the signal? 👇",
+    "total_segments": 5,
+    "timeline": [
+      {
+        "segment_id": 1,
+        "text": "In 1977, the Big Ear radio telescope detected a seventy-two-second signal originating from deep space.",
+        "header_text": "OHIO 1977",
+        "background": {
+          "file": "radio_telescope_night_starry_sky.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 2,
+        "text": "The signal was thirty times stronger than deep space background noise, matching the exact frequency of hydrogen.",
+        "header_text": "1420 MHZ FREQUENCY",
+        "background": {
+          "file": "computer_printout_wow_code_red_circle.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 3,
+        "text": "Astronomer Jerry Ehman circled the data code '6EQUJ5' on the printout and wrote 'Wow!' in red ink.",
+        "header_text": "THE FAMOUS WOW",
+        "background": {
+          "file": "astronomer_hand_writing_wow.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 4,
+        "text": "The transmission possessed all the marks of an intentional, narrow-beam interstellar transmission.",
+        "header_text": "INTERSTELLAR PULSE",
+        "background": {
+          "file": "glowing_signal_wave_space.mp4",
+          "effect": "reverse_loop"
+        }
+      },
+      {
+        "segment_id": 5,
+        "text": "Despite searching that exact point in the Sagittarius constellation for decades, the signal never repeated, making you wonder who...",
+        "header_text": "DEEP SPACE PULSE",
+        "background": {
+          "file": "sagittarius_constellation_deep_space_nebula.mp4",
+          "effect": "reverse_loop"
+        }
+      }
+    ]
+  }
+]
