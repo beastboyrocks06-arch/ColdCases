@@ -216,12 +216,12 @@ def build_metadata(
 
 def run_automation():
     """Main function to scan queue, generate video, upload, and update coldcases.json."""
-    json_file = os.path.join(BASE_DIR, "coldcases", "coldcases.json")
-    assets_dir = os.path.join(BASE_DIR, "coldcases", "background_assets")
-    audio_dir = os.path.join(BASE_DIR, "coldcases", "voiceovers")
-    stickers_dir = os.path.join(BASE_DIR, "coldcases", "stickers")
-    output_dir = os.path.join(BASE_DIR, "coldcases", "output")
-    bgm_dir = os.path.join(BASE_DIR, "background_music", "coldcases")
+    json_file = os.path.join(BASE_DIR,"coldcases.json")
+    assets_dir = os.path.join(BASE_DIR,"background_assets")
+    audio_dir = os.path.join(BASE_DIR,"voiceovers")
+    stickers_dir = os.path.join(BASE_DIR,"stickers")
+    output_dir = os.path.join(BASE_DIR,"output")
+    bgm_dir = os.path.join(BASE_DIR, "background_musics")
 
     if not os.path.exists(json_file):
         print(f"❌ JSON file missing: {json_file}")
